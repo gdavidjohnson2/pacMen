@@ -2,6 +2,7 @@
 # PacMen Exercise
 
 **Based on code provided for the MIT xPro Web Development with JavaScript course.**
+
 Original Repository: [John Williams pacMan](https://github.com/johntango/pacMan)
 
 <img src="pacmen.gif">
